@@ -1,1 +1,1 @@
-# The-2048-Game-Variant
+#						THE 2048 GAME VARIANT
